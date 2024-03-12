@@ -2,7 +2,7 @@
 - 👀 I’m interested in Structural design and optimization
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on a framework for the structural design process
-- 📫 How to reach me alessio.pelagalli@kuleuven.be
+- 📫 How to reach me out: alessio.pelagalli@kuleuven.be
 - 😄 You can call me Ale 
 - ⚡ Fun fact: I read manga
 
